@@ -13,7 +13,7 @@ jobs:
         
       - name: update_gtest
         run: |
-          cd tests/third-party/gtest
+          cd third-party/gtest
           git submodule init && git submodule update
           
       - name: build_tests
