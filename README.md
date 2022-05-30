@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/IvanGalk1n/lab_05/badge.svg?branch=master)](https://coveralls.io/github/IvanGalk1n/lab_05?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Hywsss/lab05/badge...)](https://coveralls.io/github/Hywsss/lab05?branch=main)
 
 ## Laboratory work V
 
